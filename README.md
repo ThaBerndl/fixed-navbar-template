@@ -1,5 +1,6 @@
 VSC
   https://code.visualstudio.com/download
+  php.exe aus c://xmapp/php/php.exe in VSC unter der einstellung PHP Path für Phpserver 
 
 xampp
   https://www.apachefriends.org/de/download.html
